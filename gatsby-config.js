@@ -6,6 +6,10 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: `Panda Eating Lots` ,
+  },
+
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
