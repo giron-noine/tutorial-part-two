@@ -17,6 +17,7 @@
     "@emotion/react": "^11.1.5",
     "gatsby": "^3.0.1",
     "gatsby-plugin-emotion": "^6.0.0",
+    "gatsby-plugin-manifest": "^3.0.0",
     "gatsby-plugin-typography": "^3.0.0",
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-transformer-remark": "^3.0.0",
